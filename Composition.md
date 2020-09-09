@@ -1,8 +1,8 @@
 #  [Composition](https://github.com/krasimir/react-in-patterns/blob/master/book/chapter-04/README.md)
 
-[Composition - Official Docs](https://reactjs.org/docs/design-principles.html#composition)
-[Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
-[Specialization](https://reactjs.org/docs/composition-vs-inheritance.html#specialization)
+* [Composition - Official Docs](https://reactjs.org/docs/design-principles.html#composition)
+* [Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
+* [Specialization](https://reactjs.org/docs/composition-vs-inheritance.html#specialization)
 
 >The key feature of React is composition of components. Components written by different people should work well together. It is important to us that you can add functionality to a component without causing rippling changes throughout the codebase.
 
